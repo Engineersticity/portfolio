@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b305f04c-d49d-4673-9dac-eb475a65e28f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cpanel.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/DSC_3744.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/DSC_4139.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/DSC_4139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/IMG-20190319-WA0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/overlay-21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/overlay-22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/overlay-23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/overlay-24.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +32,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Sm5OnhRCu7k2pX4PldvLVF1IkA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -64,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572155900959</updated>
-      <workItem from="1572155903374" duration="7609000" />
+      <workItem from="1572155903374" duration="10192000" />
     </task>
     <servers />
   </component>
@@ -81,5 +93,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
