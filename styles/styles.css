@@ -295,6 +295,10 @@ img {
     text-decoration: none !important;
 }
 
+.m-btn:focus {
+    outline: none;
+}
+
 .m-btn-white {
     color: #151515;
     background-color: #fff;
@@ -333,6 +337,7 @@ img {
     transition: ease all 0.4s;
 }
 
+
 .more-btn i {
     position: absolute;
     right: 0;
@@ -346,6 +351,7 @@ img {
 
 .more-btn:hover {
     color: #000;
+    cursor: pointer;
 }
 
 .more-btn:hover i {
@@ -11226,4 +11232,28 @@ blockquote.blockquote-left .parson {
     .sm-p-25-half-b {
         padding-bottom: 25.5%;
     }
+}
+
+#more1 {
+    display: none;
+}
+
+#more2 {
+    display: none;
+}
+
+#more3 {
+    display: none;
+}
+
+#more4 {
+    display: none;
+}
+
+#more5 {
+    display: none;
+}
+
+#more6 {
+    display: none;
 }
