@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b305f04c-d49d-4673-9dac-eb475a65e28f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/readMore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/pushFirebase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/engineersticity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/engineersticity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/personal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/personal.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blog-img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blog-img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blog-img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/man.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/portfolio-5.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
@@ -38,7 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mine" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -76,7 +90,9 @@
       <updated>1572155900959</updated>
       <workItem from="1572155903374" duration="11354000" />
       <workItem from="1572510683898" duration="4797000" />
-      <workItem from="1572596535318" duration="5124000" />
+      <workItem from="1572596535318" duration="7410000" />
+      <workItem from="1572685192773" duration="2349000" />
+      <workItem from="1572771395568" duration="13214000" />
     </task>
     <servers />
   </component>

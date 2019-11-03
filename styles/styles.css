@@ -11257,3 +11257,7 @@ blockquote.blockquote-left .parson {
 #more6 {
     display: none;
 }
+
+.alert{
+    display: none;
+}
